@@ -11,7 +11,8 @@
       },
       "env": {
         "EXPO_PUBLIC_API_URL": "http://10.176.83.91:5000/api"
-      }
+      },
+      "node": "22.22.0"
     },
     "production": {
       "autoIncrement": true,
@@ -20,7 +21,8 @@
       },
       "env": {
         "EXPO_PUBLIC_API_URL": "https://your-deployed-api.example.com/api"
-      }
+      },
+      "node": "22.22.0"
     }
   }
 }
